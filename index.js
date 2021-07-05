@@ -184,6 +184,7 @@ const QuickControl = props => {
                             padding: 0,
                             width: 25, 
                             height: 80,
+                            alignSelf: 'flex-end'
                         }}
                         onPress={triggerButton}
                     >
